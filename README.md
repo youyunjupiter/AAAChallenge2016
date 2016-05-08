@@ -28,7 +28,7 @@
 		■ In 2011, there were approximately 3.3 million adult 30-day all-cause hospital readmissions in the United States, and they were associated with about $41.3 billion in hospital costs.  
 		■ For Medicaid patients, the three conditions with the largest number of 30-day all-cause readmissions were mood disorders (41,600
 readmissions), schizophrenia (35,800 readmissions), and diabetes (23,700 readmissions). These conditions resulted in
-about $839 million in hospital costs.  (<http://www.hcup-us.ahrq.gov/reports/statbriefs/sb172-Conditions-Readmissions-Payer.pdf>)
+about $839 million in hospital costs.  (<http://www.hcup-us.ahrq.gov/reports/statbriefs/sb172-Conditions-Readmissions-Payer.pdf>)  
 		■ Hospital Readmission Reduction Program (HRRP), established by the Centers for Medicare and Medicaid Services (CMS) has set its initiative on reducing the frequency of Medicare readmissions. In spite of recent improvements, the US still has the highest readmission rates compared to other developed countries (Dorland Health 2014; Joynt and Jha 2013; Kociol et al. 2012). While these findings suggest that readmission rates in the US are excessive and reducible, according to Sommers and Cunningham (2011), until wide-spread efforts are made to prevent readmission, the US healthcare system will shoulder a $16 billion burden (<http://misrc.umn.edu/wise/2014_Papers/63.pdf>)
 
 
