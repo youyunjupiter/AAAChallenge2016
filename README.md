@@ -4,7 +4,9 @@
 - Problem statement: to predict re-admission to hospital for diabetes patients. This is represented by the field called 'readmitted' in the training data.
 - Evaluation method: AUC (Area Under Curve: Curve of true positive v.s. false positive. Good predictioin gives close to 1 AUC and bad preiction gives around 0.5 AUC.)
 - Data: (<https://inclass.kaggle.com/c/sas-analytics-challenge/data>)
-	More details: (<https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008>)
+	More details: (<https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008>)  
+<http://www.hindawi.com/journals/bmri/2014/781670/tab1/>  
+<http://www.hindawi.com/journals/bmri/2014/781670/>
 
 ##Background
 - Standard for A1Cresult: (<http://www.diabetes.co.uk/what-is-hba1c.html>)  
@@ -30,7 +32,6 @@
 readmissions), schizophrenia (35,800 readmissions), and diabetes (23,700 readmissions). These conditions resulted in
 about $839 million in hospital costs.  (<http://www.hcup-us.ahrq.gov/reports/statbriefs/sb172-Conditions-Readmissions-Payer.pdf>)  
 		■ Hospital Readmission Reduction Program (HRRP), established by the Centers for Medicare and Medicaid Services (CMS) has set its initiative on reducing the frequency of Medicare readmissions. In spite of recent improvements, the US still has the highest readmission rates compared to other developed countries (Dorland Health 2014; Joynt and Jha 2013; Kociol et al. 2012). While these findings suggest that readmission rates in the US are excessive and reducible, according to Sommers and Cunningham (2011), until wide-spread efforts are made to prevent readmission, the US healthcare system will shoulder a $16 billion burden (<http://misrc.umn.edu/wise/2014_Papers/63.pdf>)
-
 
 
 
